@@ -1,9 +1,4 @@
-# 🔐 Python Vault
-
-Przykładowe repozytorium w Pythonie pokazujące, jak zbudować **prosty vault** (sejf) do bezpiecznego przechowywania sekretów (np. haseł, tokenów API, kluczy prywatnych) z użyciem szyfrowania.
-
-Projekt ma charakter **edukacyjny**, ale opiera się na dobrych praktykach.
-
+# 🔐 Python Vaul
 ---
 
 ## 📌 Funkcje
